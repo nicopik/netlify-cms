@@ -1,5 +1,5 @@
 ---
-title: 'The Ultimate quest for the All Day Vape '
+title: 'Ultimate quest for All Day Vape '
 date: 2020-02-08T18:26:09.170Z
 description: 'The Ultimate quest for the All Day Vape '
 image: /images/uploads/pexels-photo-293402.jpg
