@@ -1,29 +1,23 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2018-08-18T09:01+02:00
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
-image: /images/uploads/news_item-03.jpg
+title: How to switch Smoking to Vaping
+date: '2018-08-18T09:01+02:00'
+description: Switching from Smoking to Vaping
+image: /images/uploads/pexels-photo-1376091.jpg
 ---
+The advent of e-cigarettes is shaking up the tobacco industry. In January 2019, PM International, the maker of Marlboro, Parliament, Chesterfield, Virginia Slims, L&M, and many other tobacco cigarette brands, announced plans to stop producing tobacco cigarettes and shift its operations to smoke-free products instead. 
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Even with the newfound popularity for vaping, though, nearly 38 million Americans still smoke cigarettes. If you're among this crowd, you should consider switching to vaping for the seven following reasons. 
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## It's Better for Your Health 
 
-## A little history
+Vaping is a safer way to consume nicotine than smoking. Tobacco cigarettes contain about 600 ingredients that, when burned, create over 10,000 chemicals.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+With each puff you take, you'll breathe toxic cigarette chemicals like ammonia, formaldehyde and carbon monoxide into your lungs. According to the Centers for Disease Control and Prevention (CDC), cocktail of toxic chemicals found in cigarette smoke is responsible for nearly half-million deaths in the United States each year. 
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+E-juice, which is the liquid used in e-cigarettes, contains only a few basic ingredients, such as food vegetable glycol, propylene glycol, and nicotine. And because e-cigarettes don't bum anything, they don't create other toxic chemicals. E-juice may still contain nicotine, which can be addictive, but nicotine is generally safe and doesn't cause or contribute to any chronic disease. 
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## You'll Save Money
 
-## What you need to know before trying
+Smoking isn't just bad for your health, it's expensive. In the United States, the cost of tobacco cigarettes has increased dramatically over the past few decades. Depending on where you live, you can now expect to pay $5 to $12 for a single pack. If you smoke two packs a day, you'll spend about $3,650 to $8,760 per year on this bad habit. In addition to cigarettes, you'll also spend more money on lighters, ashtrays, breath mints and clothes when smoking. 
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
+In reality, the cost of smoking is much higher than that. Smokers typically get sick more frequently than nonsmokers, forcing them to spend more money on medical bills while taking time off from work in the process.
