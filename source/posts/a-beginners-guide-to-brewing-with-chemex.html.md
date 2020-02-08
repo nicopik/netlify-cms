@@ -1,26 +1,24 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2018-08-16T12:01+02:00
+title: A beginners’ guide to breaking the smoking habit
+date: '2018-08-16T12:01+02:00'
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
   ordeal, but once you get used to the process, it becomes a soothing ritual
   that's worth the effort every time.
-image: /images/uploads/news_item-02.jpg
+image: /images/uploads/pexels-photo-2418883.jpg
 ---
+According to studies, over two-thirds of smokers are interested in giving up the habit and over half have tried to quit in the last year. These numbers are unsurprising considering the rising cost of cigarettes combined with the overwhelming medical data showing just howten-ible tobacco consumption isto our health. 
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+# **Can we Quit Smoking**
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+Yet the success rate is comparatively poor, with only about 7 percent of smokers managing to give up tobacco for good. Many smokers find that they don't know where to begin quitting and they soon fall back into old habits. However, quitting smoking doesn't have to be an uphill battle. Armed with a few handy tips and tricks, you'll be able to kick the habit for good in no time. 
 
-## The little secrets of Chemex brewing
+They are designed to deliver nicotine into the bloodstream without being delivered without the awful carcinogenic chemicals that come from smoking tobacco. The biggest downside of these methods is that many smokers miss the physical ad of smoking a cigarette, especially if they smoke socially. If that sounds like you, then you may want to consider va ping. 
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+# Try an Alternative 
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Nicotine is the main active drug in tobacco. It's the substance smokers crave and it's what keeps most people lighting up. Fortunately, there are other methods of getting nicotine without inhaling harmful smoke. Nicotine patches and gum have been on the market for a long time now. 
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+Vaping works by heating up a mixture of vegetable oil and nicotine until it turns to steam, which is ingested much like the smoke from a cigarette. While the long-term effects of va ping aren't completely understood, most healthcare professionals agree that it's many times less harmful than smoking tobacco. 
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Vape equipment comes in many designs from box va pes which are about the size of a cigarette boxto small pencil vapes which are made to resemble a traditional cigarette. According to one study, 37 percent of smokers who tried wiping for 90 days completely stopped smoking tobacco by the end of the trial.
