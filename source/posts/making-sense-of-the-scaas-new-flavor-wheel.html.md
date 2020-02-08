@@ -1,29 +1,25 @@
 ---
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2018-08-14T12:01+02:00
-description: >-
-  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
-  tasters, has been revised for the first time this year.
-image: /images/uploads/news_item-01.jpg
+title: Are Gourmet E-Liquids Worth the Extra Money?
+date: '2018-08-14T12:01+02:00'
+description: Are Gourmet E-Liquids Worth the Extra Money?
+image: /images/uploads/pexels-photo-1930678.jpg
 ---
+If you were to type 'gourmet e-liquids' into a search engine, you would be met with hundreds of pages of different companies offering a huge variety of flavors. The one thing that all of these gourmet juices have in common is their high price, which is often significantly more than a bottle of standard e-juice. 
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+With fancier packaging, enticing names and tempting descriptions, it is easy to understand why an increasing number of people are paying more for gourmet juices, but the question of whether or not this price is justified still remains. What exactly is it that makes an e-juice 'gourmet'? Are they actually better than standard juices, or is it simply an outcome of clever psychological marketing? 
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+## What Does Gourmet Actually Mean?
 
-## What the updates mean to you
+Since there is no singular definition of the term 'gourmet' in relation to e-liquids, there is no official regulation, and manufacturers use their own discretion when creating their own gourmet varieties. 
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Many gourmet e-liquids claim that they are organic, but again, this term, which we usually apply to food, cannot be applied to e-liquids in the same way. In this case, the term organic usually refers to a juice without any artificial flavorings or colors, and sometimes can mean that the product is PG-free. However, this in itself does not account for the huge price mark-ups that gourmet juices are subjected to. 
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+## How Are Gourmet Juices Made?
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Another important factor that gourmet juices share is the way in which they are made. There are currently no FDA requirements when it comes to this, but many companies have taken it upon themselves to make sure that all juices are mixed in a completely sterile environment, with a minimal amount of dust particles and allergens in the room, similar to that of a hospital's operating room. 
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+They mix and brew micro-batches of liquid, sometimes taking up to ten months to perfect a flavor combination, and each bottle of liquid is labeled with a born date as well as a batch number, providing complete transparency for the user. Some companies also make sure to pre-steep their liquid. ensuring that the flavors do riot change over time after the customer buys them. 
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+## Packaging And Presentation
+
+When it comes to packaging and presentation, there is no doubt that gourmet juices look much more aesthetically pleasing than their standard counterparts. Many juices come in beautifully crafted glass bottles, with artistic labels and well-branded boxes. The placebo effect has been proven plenty of times in the past with food, where people who pay more for what they think is a luxury product usually end up believing that the taste is superior to the standard version.
