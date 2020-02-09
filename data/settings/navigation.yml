@@ -1,5 +1,6 @@
 nav_items: 
   - {label: 'Home', path: '/'}
+  - {label: 'Interested buying NICOLESS.COM?', path: 'https://www.afternic.com/forsale/nicoless.com'}  
 # - {label: 'Products', path: '/products/'}
   - {label: 'News', path: '/news'}
 
