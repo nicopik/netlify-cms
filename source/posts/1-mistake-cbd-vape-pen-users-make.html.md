@@ -1,6 +1,6 @@
 ---
 title: '#1 Mistake CBD Vape Pen Users Make'
-date: 2020-02-08T18:48:17.084Z
+date: 2019-12-02T18:48:17.084Z
 description: >-
   #1 Mistake CBD Vape Pen Users Make. Summer is coming, CBD is the hot new
   product that everyone is talking about and the heat can destroy CBD due to
