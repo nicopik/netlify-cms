@@ -29,3 +29,5 @@ The pros of e-cigarettes are that they're small, compact and easy to use. They'r
 The main pro of a vape mod is that it allows the user a significant degree of control. They can choose the temperature and otherfactors affecting the amount, density and flavor of the vapor produced by the unit. In the cons column, the size and weight of a vape mod will generally be much larger. 
 
 With its larger battery, a vape mod is typically much bulkier and more cumbersome than even the chunkiest e-cigarettes. Other major disadvantage is the price: vape mods are dramatically more expensive than e-cigarettes, making them more of a risk for a first-time buyer.
+
+Smoking isn't just bad for your health, it's expensive. In the United States, the cost of tobacco cigarettes has increased dramatically over the past few decades.
