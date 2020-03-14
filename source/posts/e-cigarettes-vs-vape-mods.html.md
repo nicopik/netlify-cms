@@ -6,7 +6,7 @@ image: /images/uploads/pexels-photo-338710.jpg
 ---
 E-cigarettes and vape mods are both used for e-smoking (also known as vaping). To help you decide which might suit you best, we've broken down the main difference between these two categories so you can choose with confidence. 
 
-## E-cigarettes 
+## E-cigarettes
 
 E-cigarette (also known as an e-cig or vape pen) is an all-in-one e-smoking solution. Although they're not very adaptable, they are convenient and easy to use. The bulkier models are often as large as a cigar but you can also find slimline products that are sized similarlyto a conventional cigarette. 
 
@@ -14,13 +14,15 @@ Inside the unit, there's a battery, a small heating coil, a vaporizer and a rese
 
 Additional ingredients may include nicotine to produce a tobacco-like physiological response; colorings to make the fluid look more appealing; and flavorings that provide a more pleasant vaping experience. This mixture is heated to produce a vapor, which is then inhaled by the user. 
 
-## Vape mods 
+## Vape mods
 
 More powerful than vape pens, vape mods may operate in a similar way to a vape pen but are designed to provide the user with more control. Fans of vape mods (also known as mechanical vape mods) cite an improved smoke-like sensation when inhaling the vapor and better, more intense flavors. 
 
 On the downside, e-cigarettes don't provide much in the way of user control. They tend to have a single temperature setting and some users feel that they give a less pleasant vaping experience in terms of sensation and flavor. 
 
-## Pros and cons 
+According to the CDC, cocktail of toxic chemicals found in cigarette smoke is responsible for nearly half-million deaths in the United States each year. With each puff you take, you'll breathe toxic cigarette chemicals like ammonia, formaldehyde and carbon monoxide into your lungs. 
+
+## Pros and cons
 
 The pros of e-cigarettes are that they're small, compact and easy to use. They're very convenient — easy to slip into your bag or pocket. They also tend to be much less expensive than vape mods, especially if you choose a more basic model. 
 
