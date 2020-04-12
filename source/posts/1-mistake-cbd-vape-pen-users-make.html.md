@@ -1,12 +1,11 @@
 ---
-title: '#1 Mistake CBD Vape Pen Users Make'
+title: "#1 Mistake CBD Vape Pen Users Make"
 date: 2019-12-02T18:48:17.084Z
-description: >-
-  #1 Mistake CBD Vape Pen Users Make. Summer is coming, CBD is the hot new
-  product that everyone is talking about and the heat can destroy CBD due to
-  decarboxylation. CBD vape pens are wildly popular by Millenials, those
+description: "#1 Mistake CBD Vape Pen Users Make. Summer is coming, CBD is the
+  hot new product that everyone is talking about and the heat can destroy CBD
+  due to decarboxylation. CBD vape pens are wildly popular by Millenials, those
   quitting smoking, and boomers in their elder years. Learning about the ways to
-  avoid destruction of the CBD by careless storage is important. 
+  avoid destruction of the CBD by careless storage is important. "
 image: /images/uploads/pexels-photo-1047319.jpg
 ---
 Vaping is a safer way to consume nicotine than smoking. Tobacco cigarettes contain about 600 ingredients that, when burned, create over 10,000 chemicals.
@@ -17,7 +16,7 @@ With all these new users, there are bound to be a lot of mishandling. Much like 
 
 ## What Is #1 Mistake CBD Users Make?
 
-The number one mistake users of CBD products make is leaving them in their car. This is especially true if you use a vape pen for your CBD. While this is primarily a mistake in the summer or hotter climates, it can be a problem in cold weather as well. People have a habit of leaving things they don't need, especially things like vape rigs, cigarettes, and lighters in their vehicle for safe keeping. However, you can ruin the CBD if you leave it in your car. 
+The number one mistake users of [CBD products](https://nicoless.com/news/2020/review-white-cloud-e-cig/) make is leaving them in their car. This is especially true if you use a vape pen for your CBD. While this is primarily a mistake in the summer or hotter climates, it can be a problem in cold weather as well. People have a habit of leaving things they don't need, especially things like vape rigs, cigarettes, and lighters in their vehicle for safe keeping. However, you can ruin the CBD if you leave it in your car. 
 
 ## Why You Shouldn't Leave Your CBD Vape in Car?
 
