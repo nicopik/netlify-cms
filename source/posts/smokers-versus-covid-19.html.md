@@ -4,7 +4,7 @@ date: 2020-06-04T00:51:53.485Z
 description: Smokers Versus COVID-19
 image: /images/uploads/composite_159123218799466.jpg
 ---
-Are smokers bound to be in danger from coronavirus? 
+**Are smokers bound to be in danger from coronavirus?** 
 
 Refering to an examination led by Guoshuai Cai, from USC, the ECDC report said smoking was related with uplifted movement in the lungs of a catalyst, ACE2.
 
@@ -16,4 +16,4 @@ ACE2 could make patients progressively powerless against COVID-19. The movement 
 
 The organization refered to an examination by Chinese specialists which on an example of 99 patients influenced by coronavirus found that intense smokers were more in danger of kicking the bucket than old individuals. 
 
-Smoking can make individuals increasingly vulnerable to genuine difficulties from a coronavirus contamination, the EU office for ailment control has guaranteed.
+Smoking can make individuals increasingly vulnerable to genuine difficulties from a coronavirus contamination. In short, avoid smoking!
